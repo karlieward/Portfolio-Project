@@ -8,6 +8,10 @@ h2 {
   font-size: 25px;
 }
 
+img {
+  max-width: 300px;
+}
+
 .hero {
   text-align: center;
   padding-top: 100px;
