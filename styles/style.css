@@ -1,12 +1,29 @@
-h1 {
+:root {
+  --heading-font: "Cinzel", serif;
+  --accent-font: "Alegreya Sans", sans-serif;
+}
+
+.hero h1 {
   font-family: "Cinzel", serif;
   font-size: 80px;
 }
-h2 {
+.hero h2 {
   font-family: "Alegreya Sans", sans-serif;
   font-weight: 100;
   font-size: 25px;
 }
+
+h1 {
+  font-family: var(--heading-font);
+  font-size: 70px;
+}
+
+h2 {
+  font-family: var(--accent-font);
+  font-size: 20px;
+  font-weight: 100;
+}
+
 h3 {
   font-family: "Cinzel", serif;
   font-size: 40px;
@@ -35,6 +52,10 @@ img {
   padding-bottom: 50px;
 }
 
+.layout {
+  margin-top: 75px;
+}
+
 @media (max-width: 900px) {
   .hero {
     padding-top: 60px;
@@ -43,10 +64,10 @@ img {
     text-align: center;
     padding-bottom: 60px;
   }
-  h1 {
+  .hero h1 {
     font-size: 50px;
   }
-  h2 {
+  .hero h2 {
     font-size: 17px;
   }
   h3 {
