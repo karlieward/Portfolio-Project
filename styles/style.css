@@ -36,19 +36,34 @@ h4 {
   font-size: 25px;
   font-weight: 500;
 }
+h5 {
+  font-family: var(--accent-font);
+  font-weight: 100;
+  font-size: 30px;
+  text-align: right;
+  padding-top: 100px;
+  padding-right: 30px;
+}
+h6 {
+  text-align: right;
+  padding-right: 30px;
+}
+
+.left-align {
+  text-align: left;
+}
 p {
   font-family: "Alegreya Sans", sans-serif;
 }
 
 img {
-  max-width: 300px;
+  max-width: 500px;
 }
 
 .hero {
   text-align: center;
   padding-top: 100px;
   margin-bottom: 0px;
-  background-color: #f1eee5;
   padding-bottom: 50px;
 }
 
@@ -58,6 +73,7 @@ img {
 
 .fa-brands {
   font-size: 25px;
+  margin-top: 20px;
 }
 
 .fa-solid {
