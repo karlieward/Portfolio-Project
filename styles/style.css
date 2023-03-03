@@ -111,6 +111,29 @@ img {
 .fa-solid {
   font-size: 25px;
 }
+.contact-box {
+  background: rgb(241, 239, 239);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+.contact-box h1 {
+  text-align: left;
+  padding-left: 30px;
+  margin: 0px;
+}
+
+.contact-box p {
+  text-align: left;
+  padding-left: 80px;
+}
+
+.contact-box a {
+  margin-right: 50px;
+  margin-top: 30px;
+  padding: 15px 25px;
+}
 
 .footer-email {
   font-size: 25px;
