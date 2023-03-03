@@ -112,6 +112,18 @@ img {
   font-size: 25px;
 }
 
+.footer-email {
+  font-size: 25px;
+  text-decoration: none;
+}
+footer a {
+  color: black;
+}
+.footer-icons a {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
 @media (max-width: 900px) {
   .hero {
     padding-top: 60px;
