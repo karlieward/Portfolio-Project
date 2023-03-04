@@ -186,6 +186,10 @@ img {
   text-decoration: underline;
 }
 
+footer {
+  margin-top: 20px;
+}
+
 footer a {
   color: black;
 }
