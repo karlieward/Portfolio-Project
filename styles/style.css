@@ -36,6 +36,7 @@ hr {
   border-color: black;
   opacity: 100;
   margin-top: 0;
+  margin-bottom: 0;
 }
 .logo {
   max-height: 50px;
@@ -126,7 +127,7 @@ img {
 
 .hero {
   text-align: center;
-  padding-top: 100px;
+  padding-top: 50px;
   margin-bottom: 0px;
   padding-bottom: 50px;
 }
