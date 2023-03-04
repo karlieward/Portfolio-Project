@@ -68,6 +68,15 @@ hr {
   color: #6c757d;
 }
 
+.homepage-image {
+  text-align: center;
+}
+.homepage-image img {
+  max-height: 150px;
+  margin: 0px;
+  border-radius: 100%;
+}
+
 h1 {
   font-family: var(--heading-font);
   font-size: 70px;
