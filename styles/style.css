@@ -28,7 +28,7 @@ nav ul {
 nav li {
   display: inline;
   padding-left: 10px;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 hr {
@@ -230,13 +230,13 @@ footer a :hover {
   }
 
   li {
-    font-size: 8px;
+    font-size: 7px;
+    line-height: 1px;
   }
   hr {
     border-top: 0.5px;
   }
   ul {
-    padding-right: 10px;
     padding-left: 0px;
   }
 }
