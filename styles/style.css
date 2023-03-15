@@ -208,6 +208,10 @@ footer a :hover {
   margin-top: 50px;
 }
 
+.open-source-tag {
+  margin-bottom: 50px;
+}
+
 .open-source-tag a {
   text-decoration: none;
   font-weight: bold;
