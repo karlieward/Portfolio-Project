@@ -233,33 +233,33 @@ footer a :hover {
   h3 {
     font-size: 25px;
   }
-}
-h6 {
-  margin-bottom: 100px;
-}
+  h6 {
+    margin-bottom: 100px;
+  }
 
-li {
-  font-size: 7px;
-  line-height: 1px;
-}
-hr {
-  border-top: 0.5px;
-}
-ul {
-  padding-left: 0px;
-}
+  li {
+    font-size: 7px;
+    line-height: 1px;
+  }
+  hr {
+    border-top: 0.5px;
+  }
+  ul {
+    padding-left: 0px;
+  }
 
-footer {
-  padding-top: 0px;
-}
+  footer {
+    padding-top: 0px;
+  }
 
-.my-projects-button {
-  margin-bottom: 75px;
-}
-#lined-heading {
-  margin-bottom: 0px;
-}
+  .my-projects-button {
+    margin-bottom: 75px;
+  }
+  #lined-heading {
+    margin-bottom: 0px;
+  }
 
-#lined-heading-bottom {
-  margin-top: 0px;
+  #lined-heading-bottom {
+    margin-top: 0px;
+  }
 }
