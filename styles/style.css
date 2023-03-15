@@ -262,4 +262,7 @@ footer a :hover {
   #lined-heading-bottom {
     margin-top: 0px;
   }
+  .contact-page-links {
+    margin-top: 50px;
+  }
 }
