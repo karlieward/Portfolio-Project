@@ -208,6 +208,16 @@ footer a :hover {
   margin-top: 50px;
 }
 
+.open-source-tag a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.open-source-tag :hover {
+  text-decoration: underline;
+  color: #6c757d;
+}
+
 @media (max-width: 900px) {
   body {
     margin-left: 25px;
