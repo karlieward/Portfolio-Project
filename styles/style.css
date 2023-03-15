@@ -239,4 +239,12 @@ footer a :hover {
   ul {
     padding-left: 0px;
   }
+
+  footer {
+    padding-top: 0px;
+  }
+
+  .my-projects-button {
+    margin-bottom: 75px;
+  }
 }
