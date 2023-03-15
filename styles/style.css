@@ -28,7 +28,7 @@ nav ul {
 nav li {
   display: inline;
   padding-left: 10px;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 hr {
@@ -200,6 +200,14 @@ footer a :hover {
   padding-right: 5px;
 }
 
+#lined-heading {
+  margin-bottom: 60px;
+}
+
+#lined-heading-bottom {
+  margin-top: 50px;
+}
+
 @media (max-width: 900px) {
   body {
     margin-left: 25px;
@@ -217,7 +225,7 @@ footer a :hover {
     font-size: 40px;
   }
   .hero h1 {
-    font-size: 50px;
+    font-size: 49px;
   }
   .hero h2 {
     font-size: 17px;
@@ -225,26 +233,33 @@ footer a :hover {
   h3 {
     font-size: 25px;
   }
-  h6 {
-    margin-bottom: 60px;
-  }
+}
+h6 {
+  margin-bottom: 60px;
+}
 
-  li {
-    font-size: 7px;
-    line-height: 1px;
-  }
-  hr {
-    border-top: 0.5px;
-  }
-  ul {
-    padding-left: 0px;
-  }
+li {
+  font-size: 7px;
+  line-height: 1px;
+}
+hr {
+  border-top: 0.5px;
+}
+ul {
+  padding-left: 0px;
+}
 
-  footer {
-    padding-top: 0px;
-  }
+footer {
+  padding-top: 0px;
+}
 
-  .my-projects-button {
-    margin-bottom: 75px;
-  }
+.my-projects-button {
+  margin-bottom: 75px;
+}
+#lined-heading {
+  margin-bottom: 0px;
+}
+
+#lined-heading-bottom {
+  margin-top: 0px;
 }
